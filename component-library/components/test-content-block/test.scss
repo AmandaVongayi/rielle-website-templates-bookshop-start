@@ -1,0 +1,12 @@
+.center-special-heading, .left-special-heading, .right-special-heading{
+    hr{
+        border: 2px solid black;
+        width: 100%;
+    }
+    .text{
+        border-left: 4px solid black;
+        border-right: 4px solid black;
+        text-align: center;
+        padding: 0.5% 2%;
+    }
+}

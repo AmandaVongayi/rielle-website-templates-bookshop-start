@@ -1,0 +1,5 @@
+name: Special Heading
+fields:
+  - name: heading
+    type: text
+    label: Heading
