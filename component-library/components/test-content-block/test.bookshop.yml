@@ -1,4 +1,4 @@
-name: Special Heading
+name: Test
 fields:
   - name: heading
     type: text
